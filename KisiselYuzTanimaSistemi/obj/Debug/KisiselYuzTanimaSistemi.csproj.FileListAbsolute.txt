@@ -1,0 +1,60 @@
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x86\opencv_videoio_ffmpeg4110.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x64\opencv_videoio_ffmpeg4110_64.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\KisiselYuzTanimaSistemi.exe.config
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\KisiselYuzTanimaSistemi.exe
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\KisiselYuzTanimaSistemi.pdb
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Buffers.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Drawing.Common.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Memory.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.xml
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Buffers.xml
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Drawing.Common.pdb
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Drawing.Common.xml
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Memory.xml
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\UykuluSurucuTespitSistemi.Form1.resources
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.Properties.Resources.resources
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.csproj.GenerateResource.cache
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselY.518A388A.Up2Date
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.exe
+C:\Users\yakup\Desktop\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.pdb
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x86\opencv_videoio_ffmpeg4110.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\dll\x64\opencv_videoio_ffmpeg4110_64.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\KisiselYuzTanimaSistemi.exe.config
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\KisiselYuzTanimaSistemi.exe
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\KisiselYuzTanimaSistemi.pdb
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Buffers.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Drawing.Common.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Memory.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.xml
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Buffers.xml
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Drawing.Common.pdb
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Drawing.Common.xml
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Memory.xml
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.csproj.AssemblyReference.cache
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\UykuluSurucuTespitSistemi.Form1.resources
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.Properties.Resources.resources
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.csproj.GenerateResource.cache
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.csproj.CopyComplete
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.exe
+C:\Users\senguld\OneDrive - Diebold Nixdorf\Masaüstü\Uykulu_Surucu_Tespiti\Uykulu_Surucu_Tespiti\KisiselYuzTanimaSistemi\KisiselYuzTanimaSistemi\obj\Debug\KisiselYuzTanimaSistemi.pdb
